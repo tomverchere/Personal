@@ -3,7 +3,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-    body {background-color: lightblue;}
+    body {background-color: lightbeige;}
   </style>
 </head>
 <h1 style="text-align: center;">Joyeuse Saint-Valentin!</h1>
@@ -14,5 +14,4 @@
 <p style="text-align: center;"><font size="12">Veux-tu être ma <b>Valentine?</b></font></p>
 <p style="text-align: center;"><a href="Oui.jpg"><font size="10">Oui</font></a></p>
 <p style="text-align: center;"><a href="Non.jpg"><font size="10">Non</font></a></p>
-</body>
 </html>
