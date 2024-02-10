@@ -17,7 +17,7 @@
   <br>
   <br>
   <br>
-  <h1 style="text-align: center;" class="fade-in"><font size="10"Pour ma cute petite girlfriend</font></h1>
+  <h1 style="text-align: center;" class="fade-in"><font size="10">Pour ma cute petite girlfriend</font></h1>
 <center>
   <img src="IMG_5124.JPG" alt="Cute couple kissing" style="float:center;width:400px;height:550px;">
 </center>
