@@ -5,6 +5,9 @@
   <style>
     body {background-color: beige;}
   </style>
+  <style>
+    body {font-family: 'Times New Roman', Times, serif;}
+  </style>
 </head>
 <h1 style="text-align: center;">Joyeuse Saint-Valentin!</h1>
 <center>
