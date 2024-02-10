@@ -28,3 +28,9 @@
 .site-header .header-title {
     display: none;
 }
+body {
+    background-image: url('background.jpg');
+    background-size: cover; /* Adjusts the size of the background image */
+    background-position: center; /* Centers the background image */
+    /* Additional styles if needed */
+}
