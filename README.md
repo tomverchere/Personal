@@ -13,7 +13,8 @@
   </style>
   <link rel="stylesheet" href="styles.css">
 </head>
-<h1 style="text-align: center;" class="fade-in">Pour ma cute petite girlfriend</h1>
+<h1></h1>
+  <h1 style="text-align: center;" class="fade-in">Pour ma cute petite girlfriend</h1>
 <center>
   <img src="IMG_5124.JPG" alt="Cute couple kissing" style="float:center;width:400px;height:550px;">
 </center>
