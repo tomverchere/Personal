@@ -34,3 +34,11 @@ body {
     background-position: center; /* Centers the background image */
     /* Additional styles if needed */
 }
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
