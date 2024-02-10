@@ -17,7 +17,7 @@
   white-space: nowrap; /* Prevents the text from wrapping */
   margin: 0 auto; /* Centers the text horizontally */
   letter-spacing: .15em; /* Adjusts the spacing between characters */
-  animation: typing 6s steps(40, end) forwards;
+  animation: typing 6s steps(26, end) forwards;
 }
 
 @keyframes typing {
