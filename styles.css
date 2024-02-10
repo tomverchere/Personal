@@ -17,10 +17,14 @@
   white-space: nowrap; /* Prevents the text from wrapping */
   margin: 0 auto; /* Centers the text horizontally */
   letter-spacing: .15em; /* Adjusts the spacing between characters */
-  animation: typing 10s steps(100, end) forwards;
+  animation: typing 6s steps(40, end) forwards;
 }
 
 @keyframes typing {
   from { width: 0; }
   to { width: 100%; }
+}
+/* Add this CSS to your site's stylesheet */
+.site-header .header-title {
+    display: none;
 }
