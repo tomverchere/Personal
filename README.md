@@ -8,6 +8,9 @@
   <style>
     body {font-family: 'Times New Roman', Times, serif;}
   </style>
+  <style>
+    .site-header .header-title {display: none;}
+  </style>
   <link rel="stylesheet" href="styles.css">
 </head>
 <h1 style="text-align: center;" class="fade-in">Pour ma cute petite girlfriend</h1>
