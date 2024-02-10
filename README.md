@@ -18,6 +18,6 @@
 <p style="text-align: center;"><font size="4">Je t'aime vraiment beaucoup et je tiens beaucoup à toi, Ella <3 </font></p>
 <p style="text-align: center;" class="typewriter"><font size="6">Veux-tu être ma <b>Valentine?</b></font></p>
   <script src="script.js"></script>
-<p style="text-align: center;"><a href="Oui.jpg"><font size="4">Oui</font></a></p>
-<p style="text-align: center;"><a href="Non.jpg"><font size="4">Non</font></a></p>
+<p style="text-align: center;"><a href="Oui.jpg"><font size="6">Oui</font></a></p>
+<p style="text-align: center;"><a href="Non.jpg"><font size="6">Non</font></a></p>
 </html>
