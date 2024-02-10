@@ -24,3 +24,7 @@
   from { width: 0; }
   to { width: 100%; }
 }
+/* Add this CSS to your site's stylesheet */
+.site-header .header-title {
+    display: none;
+}
