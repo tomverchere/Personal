@@ -12,6 +12,10 @@
     .site-header .header-title {display: none;}
   </style>
   <link rel="stylesheet" href="styles.css">
+  <audio controls>
+  <source src="your-audio-file.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 </head>
 <br>
   <br>
