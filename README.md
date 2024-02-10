@@ -9,7 +9,7 @@
     body {font-family: 'Times New Roman', Times, serif;}
   </style>
 </head>
-<h1 style="text-align: center;">Joyeuse Saint-Valentin!</h1>
+<h1 style="text-align: center;">Pour ma cute petite girlfriend</h1>
 <center>
   <img src="IMG_5124.JPG" alt="Cute couple kissing" style="float:center;width:400px;height:550px;">
 </center>
